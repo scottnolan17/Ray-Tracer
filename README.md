@@ -20,16 +20,16 @@ Press k to add a new spotlight to the scene
 
 Drag and .obj file directly onto the window to add it to the scene
 
-  click on any of the objects while in selection mode to to select them and change their properties
+  - click on any of the objects while in selection mode to to select them and change their properties
 
-  you can also drag them around to move them
+  - you can also drag them around to move them
 
 Press d to delete the selected object from the scene
 
 Press r to render the scene; the result will be saved as "raytraced.png"
 
-  the scene will be rendered from the perspective of the fixed camera, which can be previewed by pressing 1
+  - the scene will be rendered from the perspective of the fixed camera, which can be previewed by pressing 1
 
-  press 2 to see a side view, and press 3 to return to the free cam
+  - press 2 to see a side view, and press 3 to return to the free cam
 
 After your scene is rendered, the result will be shown in the top left of the window. Press space to hide the thumbnail
